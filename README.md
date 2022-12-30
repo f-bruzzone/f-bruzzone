@@ -1,15 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
 <br>
 
-<div align="center"><h3>My name is Frank Bruzzone and I am an aspiring developer</h3></div>
+<div align="center"><h3>My name is Frank Bruzzone and this is my personal github that I started using when I first stated learning web development</h3></div>
 
 <br>
 <br>
 
- Currently  I am working on an app that will utilize **machine learning/TensorFlow** to implement speech-to-text as a means for ordering items from bodegas in the New York City area. It will be able to utilize recording audio from users utilizing the speech-to-text feature from a web browser on mobile devices. So far the stack includes:
- - Svelte on the front end
- - Firebase for the backend/database
+The repos show somewhat of a journey of my experience learning web development after I had graduated from school. They're a collection of some of the things I've done along the way to becoming a full time professional devloper, as well as recently some side projects for where I want to branch out towards in the future. 
  
 <br>
 
