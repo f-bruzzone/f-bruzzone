@@ -7,7 +7,7 @@
 <br>
 <br>
 
-The repos show somewhat of a journey of my experience learning web development after I had graduated from school. They're a collection of some of the things I've done along the way to becoming a full time professional devloper, as well as recently some side projects for where I want to branch out towards in the future. 
+The repos show somewhat of a journey of my experience learning web development after I had graduated from school. They're a collection of some of the things I've done along the way to becoming a full time professional developer, as well as recently some side projects for where I want to branch out towards in the future. 
  
 <br>
 
