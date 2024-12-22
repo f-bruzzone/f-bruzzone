@@ -1,13 +1,14 @@
-### Hi there 👋
+<div align="center"><h2>Hello and welcome to my github page 👋</h3></div>
 
 <br>
 
-<div align="center"><h3>My name is Frank Bruzzone and this is my personal github that I started using when I first stated learning web development</h3></div>
+### My name is Frank Bruzzone and I am a professional web developer as of around 2021. 
 
 <br>
-<br>
 
-The repos show somewhat of a journey of my experience learning web development after I had graduated from school. They're a collection of some of the things I've done along the way to becoming a full time professional developer, as well as recently some side projects for where I want to branch out towards in the future. 
+I work primarily with C# in .NET these days, but have done a lot of frontend work in the past with Javascript/Angular. In my free time I'm interested in learning all kinds of things, with a stronger
+interest focused around games. I have spent a decent amount of time using Unity and a bit less time with Unreal. And most recently I have begun learning graphics programming with C++. I'm starting
+this with OpenGL, but I do plan on trying out other graphics API's in the future. 
  
 <br>
 
